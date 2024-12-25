@@ -1,0 +1,370 @@
+{
+    "United Rescue Alliance Camp Barkeley": {
+        "url": "rtmp://rtmp.radaromega.com/live/c8a6b491812c",
+        "location": "Abilene, Texas",
+        "county": "Taylor County, Texas"
+    },
+    "The Weather House / Y'all Sqaud HQ": {
+        "url": "rtmp://rtmp.radaromega.com/live/3cb2d952be32",
+        "location": "Pikeville, Kentucky",
+        "county": "Pike County, Kentucky"
+    },
+    "Perry County Weather Watchers": {
+        "url": "rtmp://rtmp.radaromega.com/live/c9e8eeb0c059",
+        "location": "Perryville, Arkansas",
+        "county": "Perry County, Arkansas"
+    },
+    "RadarOmega HQ 1": {
+        "url": "rtmp://rtmp.radaromega.com/live/281188c0eb07",
+        "location": "Silver City, Georgia",
+        "county": "Forsyth County, Georgia"
+    },
+    "RadarOmega HQ 2": {
+        "url": "rtmp://rtmp.radaromega.com/live/dae00d63000a",
+        "location": "Silver City, Georgia",
+        "county": "Forsyth County, Georgia"
+    },
+    "RadarOmega HQ 3": {
+        "url": "rtmp://rtmp.radaromega.com/live/89cbe7218ecc",
+        "location": "Silver City, Georgia",
+        "county": "Forsyth County, Georgia"
+    },
+    "Cherokee Co. Fire Station 12": {
+        "url": "rtmp://rtmp.radaromega.com/live/33b5184984ba",
+        "location": "Waleska, Georgia",
+        "county": "Cherokee County, Georgia"
+    },
+    "Chestatee Golf Neighborhood": {
+        "url": "rtmp://rtmp.radaromega.com/live/1922f782ee4a",
+        "location": "Dawsonville, Georgia",
+        "county": "Dawson County, Georgia"
+    },
+    "Jefferson County EMA": {
+        "url": "rtmp://rtmp.radaromega.com/live/ac3cb9a46146",
+        "location": "Louisville, Georgia",
+        "county":"Jefferson County, Georgia"
+    },
+    "Cherokee EMA": {
+        "url": "rtmp://rtmp.radaromega.com/live/f8f3e5bdb68a",
+        "location": "Univeter, Georgia",
+        "county": "Cherokee County, Georgia"
+    },
+    "Baldwin County School District": {
+        "url": "rtmp://rtmp.radaromega.com/live/e91f3c2a705c",
+        "location": "Blandy, Georgia",
+        "county": "Baldwin County, Georgia"
+    },
+    "Systems Atlanta": {
+        "url": "rtmp://rtmp.radaromega.com/live/9ef01ebc06c2",
+        "location": "Kennesaw, Georgia",
+        "county": "Cobb County, Georgia"
+    },
+    "Rockdale County EMA": {
+        "url": "rtmp://rtmp.radaromega.com/live/2339c1a95534",
+        "location": "Richardson, Georgia",
+        "county": "Rockdale County, Georgia"
+    },
+    "Crystal Falls Golf Course": {
+        "url": "rtmp://rtmp.radaromega.com/live/7119f4094af0",
+        "location": "Hubbardsville, Georgia",
+        "county": "Dawson County, Georgia"
+    },
+    "Derbocity": {
+        "url": "rtmp://rtmp.radaromega.com/live/cebe6d410d6d_B5D01E",
+        "location": "Woodstock, Georgia",
+        "county": "Cherokee County, Georgia"
+    },
+    "Linden, Tennessee": {
+        "url": "https://node3-dist-edge.hazcams.com/linden-tn-us-002/stream.m3u8",
+        "location": "Linden, Tennessee",
+        "county": "Perry County, Tennessee"
+    },
+    "US 60 & Bridle": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM1040/chunklist_w1467824393.m3u8",
+        "location": "Monett, Missouri",
+        "county": "Monett Township, Missouri"
+    },
+    "US-69 @ Kansas Crossing North": {
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/4-069-0300-2-US69atKansasCrossingCasino.stream/playlist.m3u8",
+        "location": "Pittsburg, Kansas",
+        "county": "Crawford County, Kansas"
+    },
+    "Us 160 @ AA": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM1042/chunklist_w2020231228.m3u8",
+        "location": "Nixa Missouri",
+        "county": "Christian County, Missouri"
+    },
+    "I-44 @ Hwy 38": {
+        "url": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_354/chunklist_w1990593888.m3u8",
+        "location": "MarshField, Missouri",
+        "county":"Webster County, Missouri"
+    },
+    "Willow Spring US60 @ mm170": {
+        "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_287/chunklist_w1098687996.m3u8",
+        "location": "Willow Springs, Missouri",
+        "county": "Howell County, Missouri"
+    },
+    "Ozarks Traffic": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM1036/chunklist_w1539235473.m3u8",
+        "location": "Ozark, Missouri",
+        "county": "Christian County, Missouri"
+    },
+    "Us 65 & route CC": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM102/chunklist_w766109797.m3u8",
+        "location": "Cassidy, Missouri",
+        "county": "Cassidy Township, Missouri"
+    },
+    "MoDOT": {
+        "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_282/chunklist_w917772469.m3u8",
+        "location": "Conway, Missouri",
+        "county": "lacleda, County, Missouri"
+    },
+    "MoDot": {
+        "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_284/chunklist_w801249437.m3u8",
+        "location": "Hazelgreen, Missouri",
+        "county": "Laclede County, Missouri"
+    },
+    "West Byoass and Sunshine": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM106/chunklist_w1762852159.m3u8",
+        "location": "SpringField, Missouri",
+        "county": "Greene County, Missouri"
+    },
+    "Killeen, TX": {
+        "url": "rtmp://rtmp.radaromega.com/live/010e4ff81e95",
+        "location": "Killeen, Texas",
+        "county": "bell County, Texas"
+    },
+    "I44 MM 186.8E ": {
+        "url": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_301/chunklist_w988024989.m3u8",
+        "location": "Rolla, Missouri",
+        "county": "Phelps, County"
+    },
+    "Cajun Broadband": {
+        "url": "rtmp://rtmp.radaromega.com/live/f0751c9f3635_B471B9",
+        "location": "Broussard, Louisiana"
+    },
+    "I-10 at Butte La Rose": {
+        "url": "https://itsstreamingbr2.dotd.la.gov/public/laf-cam-059.streams/chunklist_w1786122056.m3u8",
+        "location": "Atchafalaya, Louisiana"
+    },
+    "US 90B at 2nd Ave": {
+        "url": "https://itsstreamingno.dotd.la.gov/public/nor-cam-086.streams/chunklist_w960406845.m3u8",
+        "location": "Harvey, Louisiana"
+    },
+    "Us-69 South Of Pittsburg North": {
+        "url": "https://cdn3.wowza.com/5/TkUxaGpnVUNpME1Z/KDOT/4-069-0320-2-US69southofPittsburg.stream/chunklist.m3u8",
+        "location": "Pittsburg, Kansas",
+        "county": "Crawford County, Kansas"
+    },
+    "Joplin Cam": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM1019/chunklist_w1708763892.m3u8",
+        "location": "Joplin, Missouri",
+        "county": "Jasper County, Missouri"
+    },
+    "Modot": {
+        "url": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_314/chunklist_w2029421180.m3u8",
+        "location": "Fanning, Missouri",
+        "county": "Crawford County, Missouri"
+    },
+    "Burnsville, NC 2NC0": {
+        "url": "rtmp://rtmp.radaromega.com/live/aec1855e8f63",
+        "location": "Burnsville, North Carolina",
+        "county": "Yancey County, North Carolina"
+    },
+    "El Dorado Springs": {
+        "url": "https://s2.ozarkstrafficoneview.com/rtplive/CAM1041/chunklist_w1634649276.m3u8",
+        "location": "ElDoradoSprings, Missouri",
+        "county": "Cedar County, Missouri"
+    },
+    "Tn Weather Valley Lawrenceburg": {
+        "url": "https://node3-dist-edge.hazcams.com/lawrenceburg-tn-us-001/stream.m3u8",
+        "location": "Lawrenceburg, Tennessee",
+        "county": "Lawrence County, Tennessee"
+    },
+    "MS 25 N at I-22 North": {
+        "url": "https://streamingjxn5.mdottraffic.com/rtplive/D1-0004.stream/chunklist_w1793133313.m3u8",
+        "location": "Fulton, Mississippi",
+        "county": "Itawamba County, Mississippi"
+    },
+    "MS 25 S of I-22 South": {
+        "url": "https://streamingjxn5.mdottraffic.com/rtplive/D1-0001.stream/chunklist_w994297012.m3u8",
+        "location": "Fulton, Mississippi",
+        "county": "Itawamba County, Mississippi"
+    },
+    "I-22 E of MS 25 S East": {
+        "url": "https://streamingjxn5.mdottraffic.com/rtplive/D1-0002.stream/chunklist_w1712191349.m3u8",
+        "location": "Fulton, Mississippi",
+        "county": "Itawamba County, Mississippi"
+    },
+    "I-22 W of MS 25 S West": {
+        "url": "https://streamingjxn5.mdottraffic.com/rtplive/D1-0003.stream/chunklist_w1784421956.m3u8",
+        "location": "Fulton, Mississippi",
+        "county": "Itawamba County, Mississippi"
+    },
+    "US-1 at Mile Marker 27": {
+        "url": "https://165-d6.divas.cloud/CHAN-4872/CHAN-4872_1.stream/chunklist_w1220686237_tkdmRzd3p0b2tlbmhhc2g9YVF0T0dQbUZCZHg2WXdkNlRtdjVmTXNQcjFTYjBpRE51MFRROUFxYk1hND0=.m3u8",
+        "location": "Ramrod Key, Florida",
+        "county": "Monroe County, Florida"
+    },
+    "US-1 at Mile Marker 5.3 East": {
+        "url": "https://165-d6.divas.cloud/CHAN-7580/CHAN-7580_1.stream/chunklist_w1637809029_tkdmRzd3p0b2tlbmhhc2g9TDBodWJlbXZxQmd5UDFZd1NXeFd5S0ZjNVlta3A4aXY0emxuNFZsNzl1UT0=.m3u8",
+        "location": "KeyHaven, Florida",
+        "county": "Monroe County, Florida"
+    },
+    "Simmons Bank liberty Stadium": {
+        "url": "rtmp://rtmp.radaromega.com/live/9edf47cd6fb3",
+        "location": "Memphis, Tennessee",
+        "county": "Shelby County, Tennessee"
+    },
+    "SR 7 at Inner Perimeter Rd (Lowndes)": {
+        "url": "https://sfs-lr-35.dot.ga.gov/rtplive/LOWN-CCTV-0007/chunklist_w539640435.m3u8",
+        "location": "Valodsta, Georgia",
+        "county": "Lowndes County, Georgia"
+    },
+    "Brandon Copic": {
+        "url": "rtmp://rtmp.radaromega.com/live/c7cac2120568",
+        "location": "Storm Chaser"
+    },
+    "Vince Waelti": {
+        "url": "rtmp://rtmp.radaromega.com/live/a772a1ad4338",
+        "location": "Storm Chaser"
+    },
+    "Bank of America Stadium": {
+        "url": "rtmp://rtmp.radaromega.com/live/49a55b1a2b56",
+        "location": "Charlotte, North Carolina",
+        "county": "Mecklenburg County, North Carolina"
+    },
+    "Bank of America Stadium 2": {
+        "url": "rtmp://rtmp.radaromega.com/live/239b6de9a46f",
+        "location": "Charlotte, North Carolina",
+        "county": "Mecklenburg County, North Carolina"
+    },
+    "Boltek HQ": {
+        "url": "rtmp://rtmp.radaromega.com/live/a46740584b80",
+        "location": "Portcolberne, Ontario"
+    },
+    "Burlington, KS": {
+        "url": "rtmp://rtmp.radaromega.com/live/750aec71f0e6",
+        "location": "Burlington, Kansas",
+        "county": "Coffey County, Kansas"
+    },
+    "Texas City": {
+        "url": "rtmp://rtmp.radaromega.com/live/a43c2d07ee9b",
+        "location": "Texas City, Texas",
+        "county": "Galveston County, Texas"
+    },
+    "US-69 SB at Baxter Springs": {
+        "url": "https://cdn3.wowza.com/5/VE5YZ3J3eUtPL1I4/KDOT/4-069-0063-2-US-69atBaxterSpringsMM6-3.stream/chunklist.m3u8",
+        "location": "Riverton, Kansas",
+        "county": "Cherokee County, Kansas"
+    },
+    "www.parksmarina.com/webcams/": {
+        "url": "rtmp://rtmp.radaromega.com/live/5db400a8b543_BF9810",
+        "location": "Spirit Lake, Iowa",
+        "county": "Dickinson County, Iowa"
+    },
+    "Dragon Nation": {
+        "url": "rtmp://rtmp.radaromega.com/live/9835e6965eac",
+        "location": "Faucett, Missouri",
+        "county": "Clinton County, Missouri"
+    },
+    "Firetext": {
+        "url": "rtmp://rtmp.radaromega.com/live/686b597517bf",
+        "location": "Trumann, Arkansas",
+        "county": "Poinsett County, Arkansas"
+    },
+    "I275 at Jefferson St": {
+        "url": "https://166-d7.divas.cloud/CHAN-4545/CHAN-4545_1.stream/chunklist_w400936711.m3u8",
+        "location": "Tampa, Florida",
+        "county": "Hillsborough County, Florida"
+    },
+    "I70 MP 362.30 WB": {
+        "url": "https://publicstreamer4.cotrip.org/rtplive/070W36230CAM1GP2/chunklist_w1340298780.m3u8",
+        "location": "Limon, Colorado",
+        "county": "Lincoln County, Colorado"
+    },
+    "I25 MP 099.95 NB at US 50": {
+        "url": "https://publicstreamer3.cotrip.org/rtplive/025N09995CAM1RP1/chunklist_w1428448475.m3u8",
+        "location": "Pueblo, Colorado",
+        "county": "Pueblo County, Colorado"
+    },
+    "US 71 at LA 28": {
+        "url": "https://itsstreamingbr2.dotd.la.gov/public/alx-cam-011.streams/chunklist_w925643983.m3u8",
+        "location": "Alexandria, Louisiana"
+    },
+    "Chapaton": {
+        "url": "rtmp://rtmp.radaromega.com/live/f5ba2981b1cc",
+        "location": "St. Clair Shores, Michigan",
+        "county": "Macomb County, Michigan"
+    },
+    "I35: 2BT": {
+        "url": "https://iowadotsfs1.us-east-1.skyvdn.com/rtplive/iwz3109lb/chunklist_w855863064.m3u8",
+        "location": "Clear Lake, Iowa",
+        "county": "Cerro Gordo County, Iowa"
+    },
+    "Hinds County, MS EMA": {
+        "url": "rtmp://rtmp.radaromega.com/live/bba461eca5ca",
+        "location": "Jackson, Mississippi",
+        "county": "Hinds County, Mississippi"
+    },
+    "Stanton County EMA": {
+        "url": "rtmp://rtmp.radaromega.com/live/4457f25b959c",
+        "location": "Norfolk, Nebraska",
+        "county": "Madison County, Nebraska"
+    },
+    "Warren County OH Turtlecreek Twp": {
+        "url": "rtmp://rtmp.radaromega.com/live/7bf66e5ad124",
+        "location": "Lebanon, Ohio",
+        "county": "Warren County, Ohio"
+    },
+    "Red Level Weather": {
+        "url": "rtmp://rtmp.radaromega.com/live/4ab1b0d963a1_10143D",
+        "location": "Red Level, Alabama",
+        "county": "Conecuh County, Alabama"
+    },
+    "Dickinson, TX OEM": {
+        "url": "rtmp://rtmp.radaromega.com/live/a81793f3f2e6",
+        "location": "Dickinson, Texas",
+        "county": "Galveston County, Texas"
+    },
+    "Modot #11": {
+        "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_308/chunklist_w279124688.m3u8",
+        "location": "Poplar Bluff, Missouri",
+        "county": "Butler County, Missouri"
+    },
+    "MoDot #12": {
+        "url": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_307/chunklist_w760977711.m3u8",
+        "location": "Poplar Bluff, Missouri",
+        "county": "Butler County, Missouri"
+    },
+    "Boycom": {
+        "url": "rtmp://rtmp.radaromega.com/live/e5a82d97e070",
+        "location": "Poplar Bluff, Missouri",
+        "county": "Butler County, Missouri"
+    },
+    "White Oak": {
+        "url": "rtmp://rtmp.radaromega.com/live/70a3536a00b4_B155A1",
+        "location": "Poplar Bluff, Missouri",
+        "county": "Butler County, Missouri"
+    },
+    "Heartland Express": {
+        "url": "rtmp://rtmp.radaromega.com/live/9ef34db55a63",
+        "location": "Poplar Bluff, Missouri",
+        "county": "Butler County, Missouri"
+    },
+    "Puxico, MO": {
+        "url": "rtmp://rtmp.radaromega.com/live/a8d640224f2c",
+        "location": "Puxico, Missouri",
+        "county": "Stoddard County"
+    },
+    "Bell City, MO": {
+        "url": "rtmp://rtmp.radaromega.com/live/1a78ac5e5a22_0A09F5",
+        "location": "Bell City, Missouri",
+        "county": "Stoddard County"
+    },
+    "Vega HS Cycloneport": {
+        "url": "rtmp://rtmp.radaromega.com/live/9a55b704eb4f",
+        "location": "Vega, Texas",
+        "county": "Oldham County, Texas"
+    }
+}
